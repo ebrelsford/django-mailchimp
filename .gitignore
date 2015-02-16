@@ -1,5 +1,6 @@
 *.pyc
 *.pyo
+.*.sw*
 .pydevproject
 .project
 django_mailchimp.egg-info
